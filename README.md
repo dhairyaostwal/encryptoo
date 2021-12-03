@@ -11,7 +11,12 @@ we will design a hybrid encryption scheme by using the ECDH (Elliptic Curve Diff
 #### Flowchart
 ![ISAA](https://user-images.githubusercontent.com/61325120/130829748-f0039ee5-d91e-4082-8137-4d6501a9559a.png)
 
+## Instructions to run locally
 
-
+1. Install python3 on your local machine
+2. Clone the repository
+3. Once into the repository, pip install necessary packages
+4. To run the project, use ```python3 app.py```
+5. Go to the link http://127.0.0.1:5000/
 
 
